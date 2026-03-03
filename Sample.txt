@@ -1,1 +1,7 @@
 
+GitHub Setup Activity
+
+Name: Ramachandran
+Department: BE.CSE.(AI & ML)
+
+This file is created as part of GitHub hands-on activity.
